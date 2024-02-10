@@ -1,0 +1,113 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &557081729154433535
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 557081729154433528}
+  - component: {fileID: 557081729154433529}
+  m_Layer: 0
+  m_Name: StarsSpawner
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &557081729154433528
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 557081729154433535}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 6, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &557081729154433529
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 557081729154433535}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1778bab7a1335aa4683be302ab016827, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  _starsPrefs:
+  - {fileID: 8421620817440921102, guid: c0126db7c023f2a48a6b51c535094304, type: 3}
+  - {fileID: 7395654091532486638, guid: 39d5cc65452f2014c8a097ae82940fc5, type: 3}
+  - {fileID: 1287286759759526813, guid: 6579595c712299740a3abdc815dc5510, type: 3}
+  - {fileID: 1063259219255475143, guid: 4faf2ad4a5063c743bebd53c9441fb02, type: 3}
+  - {fileID: 8656539633235499807, guid: 5a58a5008fcc8374ca74f8c5a2ad7626, type: 3}
+  - {fileID: 8700629125447757590, guid: 1edf140c40695f143b1394253b872cad, type: 3}
+  _spawnPoints:
+  - -0.7
+  - 0.7
+  - -0.1
+  - 0.1
+  - -0.5
+  - 0.5
+  - -2
+  - 2
+  - -1
+  - 1
+  - -0.2
+  - 0.2
+  - -0.3
+  - 0.3
+  - -0.4
+  - 0.4
+  - -0.6
+  - 0.6
+  - -0.8
+  - 0.8
+  - -0.9
+  - 0.9
+  - -1.1
+  - 1.1
+  - -1.2
+  - 1.2
+  - -1.3
+  - 1.3
+  - -1.4
+  - 1.4
+  - -1.5
+  - 1.5
+  - -1.6
+  - 1.6
+  - -1.7
+  - 1.7
+  - -1.8
+  - 1.8
+  - -1.9
+  - 1.9
+  - -2.1
+  - 2.1
+  - -2.2
+  - 2.2
+  - -2.3
+  - 2.3
+  - -2.4
+  - 2.4
+  - -2.5
+  - 2.5
+  - -2.6
+  - 2.6
+  - -2.7
+  - 2.7
+  - -2.8
+  - 2.8
+  - 0
+  - -2.9
+  - 2.9

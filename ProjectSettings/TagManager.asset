@@ -1,0 +1,57 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - PlayersArmor
+  - PlayerBullet
+  - SlimeEnemy
+  - Skin
+  - DumpEnemy
+  - DumpBullet
+  - PathEnemy
+  - LeftColl
+  - RightColl
+  - GunEnemy
+  - FastEnemy
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - Game
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: GameLayer
+    uniqueID: 1183017899
+    locked: 0
