@@ -14,4 +14,8 @@ Help the UFO get out of trouble!
 At the moment, the game is posted on the Yandex Games platform (game service)
 
 ## How to play :question:
-UFO follows tapping and dragging, shoots automatically.
+Mobile devices:
+The UFO follows the touch of a finger and shoots automatically when moving.
+
+Desktop:
+The UFO follows the mouse click and shoots automatically when moving.
