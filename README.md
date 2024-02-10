@@ -11,7 +11,7 @@
 Repel the attack of galactic enemy-minded creatures (bambastics) for as long as possible!
 Help the UFO get out of trouble!
 
-At the moment, the game is posted on the Yandex Games platform (game service)
+At the moment, the game is posted on the Yandex Games platform (game service).
 
 ## How to play :question:
 Mobile devices:
