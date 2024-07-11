@@ -1,5 +1,5 @@
 # :space_invader: Bambastics :milky_way:
-:video_game: Unity mini-game
+:video_game: Unity mini-game (WebGL)
 ## Screenshots :camera_flash:
 ![1 1](https://github.com/FilippovVic/Bambastics/assets/113792486/93ccb5a7-3a58-452f-8756-45417b736fb7)
 ![2](https://github.com/FilippovVic/Bambastics/assets/113792486/3259011e-0d73-4382-9b02-a2719c803c8d)
